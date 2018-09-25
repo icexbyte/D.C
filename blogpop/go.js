@@ -131,7 +131,7 @@ function auto_safeconvert() {
         }
         if (a_to_vh == false) {
             var encryptedUrl = Base64.encode(a_to_vi);
-            a_to_ve[i].href = "http://iptv-m.blogspot.com/p/test.html?url=" + encryptedUrl;
+            a_to_ve[i].href = "https://iptvm3ulistas.blogspot.com/p/que-es-el-iptv.html?url=" + encryptedUrl;
             a_to_ve[i].rel = "nofollow";
             a_to_vb++;
             a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
